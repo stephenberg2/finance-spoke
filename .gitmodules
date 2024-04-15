@@ -1,3 +1,4 @@
 [submodule "central-it"]
 	path = central-it
 	url = https://github.com/stephenberg2/central-it.git
+	branch = main
